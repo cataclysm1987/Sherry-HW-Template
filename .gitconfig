@@ -1,3 +1,5 @@
 [user]
 	name = Eric Conklin
 	email = conklin.eric@gmail.com
+[remote "origin"]
+	url = ssh://git@github.com/cataclysm1987/Sherry-HW-Template.git
